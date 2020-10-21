@@ -334,4 +334,10 @@ body[darkmode] {
 .card[data-social='youtube'].card--summary::after {
   background: #c4032a;
 }
+
+.sry-only {
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
 /*# sourceMappingURL=style.css.map */

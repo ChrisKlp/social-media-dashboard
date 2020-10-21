@@ -300,3 +300,9 @@ body {
         }
     }
 }
+
+.sry-only {
+    height: 0;
+    width: 0;
+    visibility: hidden;
+}
